@@ -1,0 +1,13 @@
+Taarifa is an online platform for crowd
+
+sourced reporting and triaging of infrastructure related issues. It is a platform which allows
+
+citizens to engage with the government and register their issues with the local infrastructure of
+
+their area. This project aims to analyze the data collected by Taarifa and the Tanzanian Ministry
+
+of Water.
+
+The data was pre processed for removing redundant attributes, dimentionality reduction and inconsistent data removal.
+Implemented RANDOM FOREST, DEEP LEARNING, ADABOOST and LOGISTIC REGRESSION classifiers using the scikit learn library in python.
+The result was an 80% accuracy on the test data.
